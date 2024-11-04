@@ -1,0 +1,4 @@
+Debug
+build/*
+!build/.gitkeep
+.vscode
